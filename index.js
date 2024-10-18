@@ -6,8 +6,8 @@ const fs = require('fs');
 
 const app = express();
 
-const subscriptionKey = '494c66550a934f60a2ef30d3df1b2b6c';
-const endpoint = 'https://flozersq.cognitiveservices.azure.com/';
+const subscriptionKey = '494c66550a934f60a2ef30d3df1b2b6c';  //clé azure
+const endpoint = 'https://flozersq.cognitiveservices.azure.com/';  //endpoint ressource
 
 const upload = multer({ dest: 'uploads/' });
 
