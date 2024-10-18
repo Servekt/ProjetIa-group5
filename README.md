@@ -1,7 +1,10 @@
-Pour lancer :  
+Pour lancer :
 
+Modifier le fichier index.js :   
 Mettre la clé de ressources dans subscriptionKey  
 Mettre l'url de l'endpoint dans endpoint  
+
+Lancer avec : node index.js (ne pas oublier d'installer les modules avec : npm install)  
 
 Principale page :
 ![image](https://github.com/user-attachments/assets/9e2ce2e8-080a-4aea-b958-e238047e79cb)
