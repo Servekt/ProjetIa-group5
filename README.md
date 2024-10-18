@@ -1,3 +1,8 @@
+Pour lancer :
+
+Mettre la clé de ressources dans subscriptionKey
+Mettre l'url de l'endpoint dans endpoint
+
 Principale page :
 ![image](https://github.com/user-attachments/assets/9e2ce2e8-080a-4aea-b958-e238047e79cb)
 
